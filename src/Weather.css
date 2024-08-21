@@ -28,7 +28,8 @@
 .Weather img {
   height: 80px;
   width: 80px;
-  margin-right: 10px;
+  position: relative;
+  bottom: 10px;
   display: inline-block;
 }
 
